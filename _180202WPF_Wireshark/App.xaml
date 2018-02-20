@@ -1,0 +1,9 @@
+﻿<Application x:Class="_180202WPF_Wireshark.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_180202WPF_Wireshark"
+             StartupUri="StartWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,16 @@
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\bin\Debug\_180202WPF_Wireshark.exe.config
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\bin\Debug\_180202WPF_Wireshark.exe
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\bin\Debug\_180202WPF_Wireshark.pdb
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\StartWindow.g.cs
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\App.g.cs
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\_180202WPF_Wireshark_MarkupCompile.cache
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\_180202WPF_Wireshark_MarkupCompile.lref
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\StartWindow.baml
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\_180202WPF_Wireshark.g.resources
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\_180202WPF_Wireshark.Properties.Resources.resources
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\_180202WPF_Wireshark.csproj.GenerateResource.Cache
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\_180202WPF_Wireshark.exe
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\_180202WPF_Wireshark.pdb
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\MainWindow.g.cs
+c:\users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\MainWindow.baml
+C:\Users\recep\documents\visual studio 2015\Projects\_180202WPF_Wireshark\_180202WPF_Wireshark\obj\Debug\_180202WPF_Wireshark.csprojResolveAssemblyReference.cache
